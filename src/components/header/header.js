@@ -67,7 +67,7 @@ const Header = () => {
                                         <li>
                                             <a className="menu-hover-link" href="/#cv">
                                                 <span className="hover-item">
-                                                    <span data-text="About">About</span>
+                                                    <span data-text="About">CV</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -76,14 +76,6 @@ const Header = () => {
                                             <a className="menu-hover-link" href="/#portfolio">
                                                 <span className="hover-item">
                                                     <span data-text="Portfolio">Portfolio</span>
-                                                </span>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a className="menu-hover-link" href="/#news">
-                                                <span className="hover-item">
-                                                    <span data-text="News">News</span>
                                                 </span>
                                             </a>
                                         </li>
