@@ -54,7 +54,7 @@ const Header = () => {
                             {/* Start Mainmenu Area  */}
                             <div className="col-lg-9">
                                 <div className="menu_wrapper">
-                                    <Scrollspy className="mainmenuwrapper" items={['home','cv', 'portfolio', 'contact']} currentClassName="is-current" offset={-200}>
+                                    <Scrollspy className="mainmenuwrapper" items={['home','about', 'portfolio', 'contact']} currentClassName="is-current" offset={-200}>
                                         <li>
                                             <a className="menu-hover-link" href="/#home">
                                                 <span className="hover-item">
@@ -65,9 +65,9 @@ const Header = () => {
                                         
 
                                         <li>
-                                            <a className="menu-hover-link" href="/#cv">
+                                            <a className="menu-hover-link" href="/#about">
                                                 <span className="hover-item">
-                                                    <span data-text="CV">CV</span>
+                                                    <span data-text="About">About</span>
                                                 </span>
                                             </a>
                                         </li>
