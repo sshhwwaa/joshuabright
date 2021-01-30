@@ -23,8 +23,8 @@ class Googlemap extends Component {
                     defaultZoom={this.props.zoom}
                     >
                     <AnyReactComponent
-                        lat={59.955413}
-                        lng={30.337844}
+                        lat={-2.18437}
+                        lng={51.43433}
                         text="My Marker"
                     />
                     </GoogleMapReact>
