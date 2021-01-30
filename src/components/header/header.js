@@ -14,7 +14,7 @@ const Header = () => {
                     path
                 }
             },
-            file(relativePath: {eq: "images/logo/logo.png"}) {
+            file(relativePath: {eq: "images/logo/jblogo.png"}) {
                 childImageSharp {
                     fixed (quality: 100, width: 70, height: 35) {
                         ...GatsbyImageSharpFixed
@@ -54,7 +54,7 @@ const Header = () => {
                             {/* Start Mainmenu Area  */}
                             <div className="col-lg-9">
                                 <div className="menu_wrapper">
-                                    <Scrollspy className="mainmenuwrapper" items={['home','about', 'portfolio',  'news' , 'contact']} currentClassName="is-current" offset={-200}>
+                                    <Scrollspy className="mainmenuwrapper" items={['home','cv', 'portfolio', 'contact']} currentClassName="is-current" offset={-200}>
                                         <li>
                                             <a className="menu-hover-link" href="/#home">
                                                 <span className="hover-item">
@@ -65,7 +65,7 @@ const Header = () => {
                                         
 
                                         <li>
-                                            <a className="menu-hover-link" href="/#about">
+                                            <a className="menu-hover-link" href="/#cv">
                                                 <span className="hover-item">
                                                     <span data-text="About">About</span>
                                                 </span>
