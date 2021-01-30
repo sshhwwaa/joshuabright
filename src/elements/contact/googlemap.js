@@ -5,8 +5,8 @@ const AnyReactComponent = ({ text }) => <div>{text}</div>;
 class Googlemap extends Component {
     static defaultProps = {
         center: {
-          lat: 59.95,
-          lng: 30.33
+          lat: 2.1897,
+          lng: 51.4314
         },
         zoom: 11
     };
