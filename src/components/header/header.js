@@ -67,7 +67,7 @@ const Header = () => {
                                         <li>
                                             <a className="menu-hover-link" href="/#cv">
                                                 <span className="hover-item">
-                                                    <span data-text="About">CV</span>
+                                                    <span data-text="CV">CV</span>
                                                 </span>
                                             </a>
                                         </li>
