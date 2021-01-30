@@ -9,10 +9,10 @@
 
     {
         "id": "about",
-        "title": "Bernard Sydney",
-        "subtitle": "Creative Web & App Developer",
-        "description": "My name is Bernard Sydney. I am a Web Developer, and I'm very passionate and dedicated to my work.",
-        "description2": "With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.",
+        "title": "Joshua Bright",
+        "subtitle": "Product/Service Designer",
+        "description": "My name is Joshua Bright. I am a Product Designer recently graduating with first class honours in product design.",
+        "description2": "With over 8 years experience as a professional designer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.",
         "downloadButton": "Download CV",
         "linkBUtton": "Send Message",
         "aboutData": [
@@ -32,7 +32,7 @@
                 "id": "aboutinfo-3",
                 "iconName": "icon",
                 "label": "Location",
-                "value": "Ave 11, New York, USA"
+                "value": "St Philip Streer, Corsham, UK"
             },
             {
                 "id": "aboutinfo-3",
@@ -44,25 +44,25 @@
                 "id": "aboutinfo-3",
                 "iconName": "icon",
                 "label": "Study",
-                "value": "University of Chicago"
+                "value": "University of West Of England"
             },
             {
                 "id": "aboutinfo-4",
                 "iconName": "icon",
                 "label": "Degree",
-                "value": "Master"
+                "value": "First Class Honours"
             },
             {
                 "id": "aboutinfo-5",
                 "iconName": "icon",
                 "label": "Mail",
-                "value": "mymail@gmail.com"
+                "value": "hi@joshuabright.co.uk"
             },
             {
                 "id": "aboutinfo-6",
                 "iconName": "icon",
                 "label": "Phone",
-                "value": "+77 022 177 05 05"
+                "value": "+447427647470"
             }
         ]
     },
