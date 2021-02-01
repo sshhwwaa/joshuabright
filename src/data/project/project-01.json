@@ -1,10 +1,10 @@
 {
     "id": "project-01",
-    "title": "Beauty Girl",
-    "category": "Design",
-    "client": "Arloko Corp",
-    "imgesBY": "Draxler",
-    "year": "2009 - 2019",
+    "title": "REDEL Ladder",
+    "category": "Product Design",
+    "client": "UWE-Final Project",
+    "imgesBY": "Joshua Bright",
+    "year": "2020",
     "featured_image": "./images/project-01.jpg",
     "is_featured": true,
     "body": [
