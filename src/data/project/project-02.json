@@ -1,10 +1,10 @@
 {
     "id": "project-02",
-    "title": "Modern Art",
-    "category": "Photography",
-    "client": "Arloko Corp",
-    "imgesBY": "Draxler",
-    "year": "2009 - 2019",
+    "title": "24 Hours In Bristol",
+    "category": "Service Design",
+    "client": "24 Hours In Our City",
+    "imgesBY": "Joshua Bright",
+    "year": "2012 - 2017",
     "featured_image": "./images/project-02.jpg",
     "is_featured": true,
     "body": [
