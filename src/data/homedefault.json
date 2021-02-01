@@ -20,7 +20,7 @@
                 "id": "aboutinfo-1",
                 "iconName": "FiArrowRightCircle",
                 "label": "Birthday",
-                "value": "01.07.1990"
+                "value": "28.05.1991"
             },
             {
                 "id": "aboutinfo-2",
@@ -32,13 +32,13 @@
                 "id": "aboutinfo-3",
                 "iconName": "icon",
                 "label": "Location",
-                "value": "St Philip Streer, Corsham, UK"
+                "value": "St Philip Street, Corsham, UK"
             },
             {
                 "id": "aboutinfo-3",
                 "iconName": "icon",
                 "label": "Interests",
-                "value": "PlayStation, Reading"
+                "value": "Skiing, Travelling, Diving"
             },
             {
                 "id": "aboutinfo-3",
@@ -69,8 +69,8 @@
 
     {
         "id": "skill",
-        "title": "In a <span class='theme-color'>short time</span>, I have been able to achieve excellence in all areas of development.",
-        "description": "I provide cost-effective and high quality products to meet our Clients’ needs of timely We provide cost-effective and high quality products to meet our Clients’ needs of timely."
+        "title": "In a <span class='theme-color'>short time</span>, I have been able to achieve excellence in multiple areas of design.",
+        "description": "I provide high quality services that meet my Clients’ needs. We provide cost-effective and high quality products to meet our Clients’ needs of timely."
     },
     {
         "id": "portfolio",
