@@ -19,7 +19,7 @@ const Banner = () => {
                     }
                 }
             },
-            file(relativePath: {eq: "images/banner/bg-image-02.jpg"}) {
+            file(relativePath: {eq: "images/banner/banner-web.jpg"}) {
                 childImageSharp {
                   fixed (quality: 100, width: 1250, height: 950) {
                     ...GatsbyImageSharpFixed
