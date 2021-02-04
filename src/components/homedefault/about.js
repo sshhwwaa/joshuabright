@@ -15,7 +15,7 @@ const About = ( ) => {
                 linkBUtton
                 
             },
-            file(relativePath: {eq: "images/banner/person-image.jpg"}) {
+            file(relativePath: {eq: "images/banner/joshua-bright.jpg"}) {
                 childImageSharp {
                   fixed (quality: 100, width: 518, height: 480) {
                     ...GatsbyImageSharpFixed
