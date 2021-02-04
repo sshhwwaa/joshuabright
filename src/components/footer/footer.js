@@ -47,7 +47,7 @@ const Footer = ({showBelow}) => {
                         <div className="col-lg-3 col-md-6 col-sm-6 col-12 mt_md--30 mt_sm--30 wow fadeInDown" data-wow-delay="200ms" data-wow-duration="0.6s">
                             <div className="ft-info">
                                 <ul className="social-share">
-                                    <li><a href="#link"><FaLinkedinIn /></a></li>
+                                    <li><a href="#link">www.linkedin.com/in/joshua-bright-88948791<FaLinkedinIn /></a></li>
                                     <li><a href="#link"><FaSkype /></a></li>
                                 </ul>
                             </div>
