@@ -48,7 +48,7 @@ const Footer = ({showBelow}) => {
                             <div className="ft-info">
                                 <ul className="social-share">
                                     <li><a href="https://www.linkedin.com/in/joshua-bright-88948791" taget="_blank"><FaLinkedinIn /></a></li>
-                                    <li><a href="#link"><FaSkype /></a></li>
+                                    <li><a href="https://join.skype.com/invite/mUABEsmX7lpR" target="_blank"><FaSkype /></a></li>
                                 </ul>
                             </div>
                         </div>
