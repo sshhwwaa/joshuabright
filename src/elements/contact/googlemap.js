@@ -17,7 +17,7 @@ class Googlemap extends Component {
                 <div style={{ height: '538px', width: '100%' }}>
                     <GoogleMapReact
                     bootstrapURLKeys={{
-                    key: 'AIzaSyDKUDcnQHIpXm0hc_KGwOujBko4QrZ__0Y'
+                    key: 'AIzaSyDKUDcnQHIpXm0hc_KGwOujBko4QrZ__0Y',
                     language: 'en'
                         
                     }}
