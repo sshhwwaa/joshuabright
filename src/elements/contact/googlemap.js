@@ -17,9 +17,8 @@ class Googlemap extends Component {
                 <div style={{ height: '538px', width: '100%' }}>
                     <GoogleMapReact
                     bootstrapURLKeys={{
-            <script defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKUDcnQHIpXm0hc_KGwOujBko4QrZ__0Y&callback=initMap">
-</script>
+                    key: 'AIzaSyDKUDcnQHIpXm0hc_KGwOujBko4QrZ__0Y'
+                    language: 'en'
                         
                     }}
                     defaultCenter={this.props.center}
