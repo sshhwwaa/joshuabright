@@ -78,6 +78,16 @@
         }
     }
 
+
+    &.header-transparent {
+        left: 0;
+        right: 0;
+        width: auto;
+        z-index: 99;
+        position: fixed;
+        
+    }
+
 }
 
 .navbar {
