@@ -1,23 +1,27 @@
 {
     "id": "project-03",
-    "title": "Red Nike",
-    "category": "Development",
-    "client": "Arloko Corp",
-    "imgesBY": "Draxler",
-    "year": "2009 - 2019",
-    "featured_image": "./images/project-03.jpg",
+    "title": "Crutch Initiative",
+    "category": "Product & Service Design",
+    "client": "Motivation",
+    "imgesBY": "My Team and I",
+    "year": "2020",
+    "featured_image": "./images/motivation01.jpg",
     "is_featured": true,
     "body": [
-        "Aussies were developed on ranches in the western United States, and were seen as early as the 1800s. These pups are very focused, and need lots of attention, pawsitive reinforcement, and exercise. They can still be found working on the ranch, but also work as guide dogs, therapy dogs, drug detectors, and of course, man’s best friend. People often seek them out for their incredibly strong hunting abilities. They are excellent swimmers, too, so a nice lake or pool is A-OK! However, they do require regular exercise and would fit best with an active family."
+        "My Team and I were set a live project brief by the charity Motivation to design a walking aid for people in need in rural parts of developing countries. We also had to design a service infrastructure that would allow the product to get to those most in need. We looked at tackling walking aids for amputees in rural parts of Kenya where there is a big problem around inappropriate auxilary crutches being used which can cause long term damage to nerves in the armpit. Our product was a crutch kit that consists of the cuff, handle and ferrule, the idea is that these can be made cheaply out of country and shipped in in a much smaller packaging therefore making shipping and transport a lot easier and cheaper, the pole would be made of bamboo and grown and bent in country providing job and skill opportunity, this also allowed the pole to be cut and fitted to the user making the crutch bespoke to the user reducing weight greatly and most importantly providing the best support to the user. This project was highly praised and awarded the best grade for the project and the prototype was kept by Motivation to explore and develop."
     ],
     "features": [
         {
             "id": "feature-1",
-            "image": "./images/project-02.jpg"
+            "image": "./images/motivation01.jpg"
         },
         {
             "id": "feature-2",
-            "image": "./images/project-03.jpg"
+            "image": "./images/motivation02.jpg"
+        },
+        {
+            "id": "feature-3",
+            "image": "./images/motivation03.jpg"
         }
     ]
 }
