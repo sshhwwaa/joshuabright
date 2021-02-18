@@ -1,14 +1,14 @@
 {
     "id": "project-05",
-    "title": "The Mountain",
-    "category": "Design",
-    "client": "Arloko Corp",
-    "imgesBY": "Draxler",
-    "year": "2009 - 2019",
+    "title": "LUMÉ Garden Light",
+    "category": "Product Design",
+    "client": "UWE",
+    "imgesBY": "Joshua Bright",
+    "year": "2018 - 2019",
     "featured_image": "./images/project-05.jpg",
     "is_featured": true,
     "body": [
-        "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+        "This project was aimed at redisgning a product and making it better, I wanted to create a more apealing and desirable garden lighting system, I wanted to redesign a piller light in an industrial style with sharp lines and an interesting light dispersal pattern, I used steel and glass to achieve this with a paneled light feature. I approached this project by designing for manufacture and therefore ensuring the product could be made and to a set budget making it feasable to sell."
     ],
     "features": [
         {
