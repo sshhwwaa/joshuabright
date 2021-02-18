@@ -66,7 +66,7 @@ export const query = graphql `
             imgesBY
             featured_image {
                 childImageSharp {
-                    fluid(maxHeight: 1000, maxWidth: 1920, quality: 100) {
+                    fluid(maxHeight: 1350, maxWidth: 1920, quality: 100) {
                         ...GatsbyImageSharpFluid_withWebp
                         presentationHeight
                         presentationWidth
@@ -76,7 +76,7 @@ export const query = graphql `
             features {
                 image {
                     childImageSharp {
-                      fluid(maxWidth: 1920, maxHeight: 1280, quality: 100) {
+                      fluid(maxWidth: 1920, maxHeight: 1350, quality: 100) {
                         ...GatsbyImageSharpFluid_withWebp
                         presentationWidth
                         presentationHeight
