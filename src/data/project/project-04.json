@@ -1,23 +1,27 @@
-{
+n{
     "id": "project-04",
-    "title": "New Technology",
-    "category": "Photography",
-    "client": "Arloko Corp",
-    "imgesBY": "Draxler",
-    "year": "2009 - 2019",
-    "featured_image": "./images/project-04.jpg",
+    "title": "European Shipping Network",
+    "category": "Product/Service Design",
+    "client": "TNT",
+    "imgesBY": "Joshua Bright",
+    "year": "2020",
+    "featured_image": "./images/tnt00.jpg",
     "is_featured": true,
     "body": [
-        "Aussies were developed on ranches in the western United States, and were seen as early as the 1800s. These pups are very focused, and need lots of attention, pawsitive reinforcement, and exercise. They can still be found working on the ranch, but also work as guide dogs, therapy dogs, drug detectors, and of course, man’s best friend. People often seek them out for their incredibly strong hunting abilities. They are excellent swimmers, too, so a nice lake or pool is A-OK! However, they do require regular exercise and would fit best with an active family."
+        "The brief was to create a product or service for the future, I decided to focus on international shipping and the way in which it is expanding exponentially. I created a service that has already been explored in small scale and made it much bigger, drones are being used to make some delivers for amazon at the moment, I also made the assumption that Airbus would further develop their electric jet egine making aircraft fully electric in the future, by doing this i designed a system where a large Beluga aircraft would maintain a constant flight pattern around europe not needing to land using the drones to drop down and deliver and collect parcels. This would reduce the need for landing and takeoffs by the big planes and would allow the drones to deliver and collect from remote places."
     ],
     "features": [
         {
             "id": "feature-1",
-            "image": "./images/project-02.jpg"
+            "image": "./images/tnt01.jpg"
         },
         {
             "id": "feature-2",
-            "image": "./images/project-03.jpg"
+            "image": "./images/tnt02.jpg"
+        },
+        {
+            "id": "feature-3",
+            "image": "./images/tnt03.jpg"
         }
     ]
 }
