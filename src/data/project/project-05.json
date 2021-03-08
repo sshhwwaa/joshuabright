@@ -5,7 +5,7 @@
     "client": "UWE",
     "imgesBY": "Joshua Bright",
     "year": "2018 - 2019",
-    "featured_image": "./images/project-05.jpg",
+    "featured_image": "./images/lume-01.jpg",
     "is_featured": true,
     "body": [
         "This project was aimed at redisgning a product and making it better, I wanted to create a more apealing and desirable garden lighting system, I wanted to redesign a piller light in an industrial style with sharp lines and an interesting light dispersal pattern, I used steel and glass to achieve this with a paneled light feature. I approached this project by designing for manufacture and therefore ensuring the product could be made and to a set budget making it feasable to sell."
@@ -13,11 +13,19 @@
     "features": [
         {
             "id": "feature-1",
-            "image": "./images/project-02.jpg"
+            "image": "./images/lume-02.jpg"
         },
         {
             "id": "feature-2",
-            "image": "./images/project-03.jpg"
+            "image": "./images/lume-03.jpg"
+        },
+        {
+            "id": "feature-3",
+            "image": "./images/lume-04.jpg"
+        },
+        {
+            "id": "feature-4",
+            "image": "./images/lume-05.jpg"
         }
     ]
 
