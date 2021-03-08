@@ -8,16 +8,24 @@
     "featured_image": "./images/project-02.jpg",
     "is_featured": true,
     "body": [
-        "Aussies were developed on ranches in the western United States, and were seen as early as the 1800s. These pups are very focused, and need lots of attention, pawsitive reinforcement, and exercise. They can still be found working on the ranch, but also work as guide dogs, therapy dogs, drug detectors, and of course, man’s best friend. People often seek them out for their incredibly strong hunting abilities. They are excellent swimmers, too, so a nice lake or pool is A-OK! However, they do require regular exercise and would fit best with an active family."
+        "24 Hours In Bristol is a annual photographic competition I organise, I started in 2014 and continued until 2017 when I stopped to attend university, I intend to restart the event again once the pandemic has stopped restrictions on the events sector. The concept is that entrants have a single 24 hour period to go out and capture the city of Bristol, therefore creating an incredible snapshot of the going ons in the city in one day, I have built the platform to host the event and secured sponsorship from private and public sectors to make this happen. my experience in running art events greatly helped me make this a sucess."
     ],
     "features": [
         {
             "id": "feature-1",
-            "image": "./images/project-02.jpg"
+            "image": "./images/24-01.jpg"
         },
         {
             "id": "feature-2",
-            "image": "./images/project-03.jpg"
+            "image": "./images/24-02.jpg"
+        },
+        {
+            "id": "feature-3",
+            "image": "./images/24-03.jpg"
+        },
+        {
+            "id": "feature-4",
+            "image": "./images/24-04.jpg"
         }
     ]
 }
