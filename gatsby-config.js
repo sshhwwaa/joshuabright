@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Waxon Portfolio React Template`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Product Designer | Portfolio`,
+    description: `Product and graphic designer with over 8 years experience in design roles and recently graduating with first class honours in product design.`,
+    author: `@joshuabright`,
     siteUrl: "http://localhost:8000/",
     getform_url: "https://getform.io/f/7a6695a7-c8e3-442c-bc2f-d46d3b9a535e",
   },
