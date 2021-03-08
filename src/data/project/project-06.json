@@ -1,23 +1,31 @@
 {
     "id": "project-06",
-    "title": "Graphic Design",
-    "category": "Photography",
-    "client": "Arloko Corp",
-    "imgesBY": "Draxler",
-    "year": "2009 - 2019",
-    "featured_image": "./images/project-06.jpg",
+    "title": "COVID website response",
+    "category": "UX/UI",
+    "client": "Maven Gallery",
+    "imgesBY": "Joshua Bright",
+    "year": "2020 - 2021",
+    "featured_image": "./images/maven-01.jpg",
     "is_featured": true,
     "body": [
-        "Aussies were developed on ranches in the western United States, and were seen as early as the 1800s. These pups are very focused, and need lots of attention, pawsitive reinforcement, and exercise. They can still be found working on the ranch, but also work as guide dogs, therapy dogs, drug detectors, and of course, man’s best friend. People often seek them out for their incredibly strong hunting abilities. They are excellent swimmers, too, so a nice lake or pool is A-OK! However, they do require regular exercise and would fit best with an active family."
+        "With the closure of the gallery in response to the Covid pandemic the gallery lost it's main revenue of income, I therefore set out to quickly create a new stream of income via an online platform to sell work, this meant I needed to create a solid product range which I also print and assemble in house reducing costs and boosting profits. The main task was to create a website that was clear simple to use and showed off the extraordinary products on offer."
     ],
     "features": [
         {
             "id": "feature-1",
-            "image": "./images/project-02.jpg"
+            "image": "./images/maven-02.jpg"
         },
         {
             "id": "feature-2",
-            "image": "./images/project-03.jpg"
+            "image": "./images/maven-03.jpg"
+        },
+        {
+            "id": "feature-3",
+            "image": "./images/maven-04.jpg"
+        },
+        {
+            "id": "feature-4",
+            "image": "./images/maven-04.jpg"
         }
     ]
 }
