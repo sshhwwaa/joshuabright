@@ -22,6 +22,38 @@
         {
             "id": "feature-3",
             "image": "./images/redel-03.jpg"
+        },
+        {
+            "id": "feature-4",
+            "image": "./images/redel-04.jpg"
+        },
+        {
+            "id": "feature-5",
+            "image": "./images/redel-05.jpg"
+        },
+        {
+            "id": "feature-6",
+            "image": "./images/redel-06.jpg"
+        },
+        {
+            "id": "feature-7",
+            "image": "./images/redel-07.jpg"
+        },
+        {
+            "id": "feature-8",
+            "image": "./images/redel-08.jpg"
+        },
+        {
+            "id": "feature-8",
+            "image": "./images/redel-08.jpg"
+        },
+        {
+            "id": "feature-9",
+            "image": "./images/redel-09.jpg"
+        },
+        {
+            "id": "feature-10",
+            "image": "./images/redel-10.jpg"
         }
     ]
 }
