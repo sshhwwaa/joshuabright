@@ -13,11 +13,15 @@
     "features": [
         {
             "id": "feature-1",
-            "image": "./images/project-02.jpg"
+            "image": "./images/24-01.jpg"
         },
         {
             "id": "feature-2",
-            "image": "./images/project-03.jpg"
+            "image": "./images/24-02.jpg"
+        },
+        {
+            "id": "feature-3",
+            "image": "./images/24-03.jpg"
         }
     ]
 }
