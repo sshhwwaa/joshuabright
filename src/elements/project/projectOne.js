@@ -5,7 +5,7 @@ import Projectcard from "./projectcard";
 const ProjectOne = () => {
     const ProjectData = useStaticQuery(graphql`
         query ProjectDataQuery {
-            allProjectJson(limit: 6) {
+            allProjectJson(limit: 9) {
                 edges {
                   node {
                     id
