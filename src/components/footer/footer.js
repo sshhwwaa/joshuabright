@@ -40,7 +40,7 @@ const Footer = ({showBelow}) => {
                         </div>
                         <div className="col-lg-3 col-md-6 col-sm-6 col-12 mt_md--30 mt_sm--30 wow fadeInDown" data-wow-delay="200ms" data-wow-duration="0.4s">
                             <div className="ft-info">
-                                <p>hi@joshuabright.co.uk<br />+44 7427 647470</p>
+                                <p>joshuabright@live.co.uk<br />+44 7427 647470</p>
                             </div>
                         </div>
 
