@@ -13,7 +13,19 @@
     "features": [
         {
             "id": "feature-1",
-            "image": "./images/GGMR01.jpg"
+            "image": "./images/GGMR01.jpg" 
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/GGMR02.jpg"
+        },
+        {
+            "id": "feature-3",
+            "image": "./images/GGMR03.jpg"
+        },
+        {
+            "id": "feature-4",
+            "image": "./images/GGMR04.jpg"
        
         }
     ]
