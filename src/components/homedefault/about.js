@@ -62,7 +62,7 @@ const About = ( ) => {
                                     {description && <p className="description wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1000ms" dangerouslySetInnerHTML={{ __html: description2 }}></p>}
                                 </div>
                                 <div className="button-group mt--30">
-                                    {downloadButton && <a className="rn-button wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1000ms" href="https://github.com/sshhwwaa/joshuabright/src/components/homedefault/CVJoshuaBright20.2.22.pdf?raw=true" target="_blank"><span>{downloadButton}</span></a>}
+                                    {downloadButton && <a className="rn-button wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1000ms" href="https://github.com/sshhwwaa/joshuabright/blob/5a03e7078e15ac04c16d1c41a76e64da09bfdf96/src/components/homedefault/CVJoshuaBright20.2.22.pdf" target="_blank"><span>{downloadButton}</span></a>}
                                 </div>
                             </div>
                         </div>
